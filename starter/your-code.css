@@ -1,0 +1,35 @@
+/* problem 1 */
+
+.rocket_svg {
+    height: 200px;
+    width: auto;
+    margin-left: 300px;
+    /* your code here */
+}
+
+/* create rocket hover animation here */
+
+
+/* problem 2 */
+
+.astronaut_svg {
+    height: 200px;
+    width: auto;
+    margin-left: 200px;
+    /* your code here */
+}
+
+/* create astronaut hover animation here */
+
+
+/* BONUS */
+.earth_svg {
+    height: 200px;
+    width: auto;
+    margin-left: 300px;
+    /* your animation here */
+}
+
+@keyframes rotate {
+    /* set up your keyframe animation here */
+}
